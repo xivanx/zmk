@@ -1,0 +1,3 @@
+[submodule "ivan-shield-module"]
+	path = ivan-shield-module
+	url = https://github.com/xivanx/ivan-shield-module.git
